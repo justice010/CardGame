@@ -1,0 +1,13 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/Justice/MemoryCard/build_release/cmake_install.cmake",
+		"E:/Justice/MemoryCard/build_release/engine/external/recast/cmake_install.cmake",
+		"E:/Justice/MemoryCard/build_release/engine/external/tinyxml2/cmake_install.cmake",
+		"E:/Justice/MemoryCard/build_release/engine/external/unzip/cmake_install.cmake",
+		"E:/Justice/MemoryCard/build_release/engine/external/flatbuffers/cmake_install.cmake",
+		"E:/Justice/MemoryCard/build_release/engine/external/xxhash/cmake_install.cmake",
+		"E:/Justice/MemoryCard/build_release/engine/cocos/core/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

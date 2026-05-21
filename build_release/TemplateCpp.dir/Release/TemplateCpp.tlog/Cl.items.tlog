@@ -1,0 +1,13 @@
+E:\Justice\MemoryCard\Classes\AppDelegate.cpp;E:\Justice\MemoryCard\build_release\TemplateCpp.dir\Release\AppDelegate.obj
+E:\Justice\MemoryCard\Classes\GameScene.cpp;E:\Justice\MemoryCard\build_release\TemplateCpp.dir\Release\GameScene.obj
+E:\Justice\MemoryCard\Classes\configs\loaders\LevelConfigLoader.cpp;E:\Justice\MemoryCard\build_release\TemplateCpp.dir\Release\LevelConfigLoader.obj
+E:\Justice\MemoryCard\Classes\services\GameModelFromLevelGenerator.cpp;E:\Justice\MemoryCard\build_release\TemplateCpp.dir\Release\GameModelFromLevelGenerator.obj
+E:\Justice\MemoryCard\Classes\services\MatchService.cpp;E:\Justice\MemoryCard\build_release\TemplateCpp.dir\Release\MatchService.obj
+E:\Justice\MemoryCard\Classes\managers\UndoManager.cpp;E:\Justice\MemoryCard\build_release\TemplateCpp.dir\Release\UndoManager.obj
+E:\Justice\MemoryCard\Classes\views\CardView.cpp;E:\Justice\MemoryCard\build_release\TemplateCpp.dir\Release\CardView.obj
+E:\Justice\MemoryCard\Classes\views\PlayFieldView.cpp;E:\Justice\MemoryCard\build_release\TemplateCpp.dir\Release\PlayFieldView.obj
+E:\Justice\MemoryCard\Classes\views\TrayView.cpp;E:\Justice\MemoryCard\build_release\TemplateCpp.dir\Release\TrayView.obj
+E:\Justice\MemoryCard\Classes\controllers\PlayFieldController.cpp;E:\Justice\MemoryCard\build_release\TemplateCpp.dir\Release\PlayFieldController.obj
+E:\Justice\MemoryCard\Classes\controllers\StackController.cpp;E:\Justice\MemoryCard\build_release\TemplateCpp.dir\Release\StackController.obj
+E:\Justice\MemoryCard\Classes\controllers\GameController.cpp;E:\Justice\MemoryCard\build_release\TemplateCpp.dir\Release\GameController.obj
+E:\Justice\MemoryCard\proj.win32\main.cpp;E:\Justice\MemoryCard\build_release\TemplateCpp.dir\Release\main.obj

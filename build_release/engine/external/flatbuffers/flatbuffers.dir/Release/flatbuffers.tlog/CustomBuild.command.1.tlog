@@ -1,0 +1,10 @@
+^E:\JUSTICE\MEMORYCARD\COCOS2D\EXTERNAL\FLATBUFFERS\CMAKELISTS.TXT
+setlocal
+E:\CMake\bin\cmake.exe -SE:/Justice/MemoryCard -BE:/Justice/MemoryCard/build_release --check-stamp-file E:/Justice/MemoryCard/build_release/engine/external/flatbuffers/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

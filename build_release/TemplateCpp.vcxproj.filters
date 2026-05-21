@@ -1,0 +1,350 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Justice\MemoryCard\Classes\AppDelegate.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Justice\MemoryCard\Classes\GameScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Justice\MemoryCard\Classes\configs\loaders\LevelConfigLoader.cpp">
+      <Filter>Source Files\Classes\configs\loaders</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Justice\MemoryCard\Classes\services\GameModelFromLevelGenerator.cpp">
+      <Filter>Source Files\Classes\services</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Justice\MemoryCard\Classes\services\MatchService.cpp">
+      <Filter>Source Files\Classes\services</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Justice\MemoryCard\Classes\managers\UndoManager.cpp">
+      <Filter>Source Files\Classes\managers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Justice\MemoryCard\Classes\views\CardView.cpp">
+      <Filter>Source Files\Classes\views</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Justice\MemoryCard\Classes\views\PlayFieldView.cpp">
+      <Filter>Source Files\Classes\views</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Justice\MemoryCard\Classes\views\TrayView.cpp">
+      <Filter>Source Files\Classes\views</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Justice\MemoryCard\Classes\controllers\PlayFieldController.cpp">
+      <Filter>Source Files\Classes\controllers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Justice\MemoryCard\Classes\controllers\StackController.cpp">
+      <Filter>Source Files\Classes\controllers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Justice\MemoryCard\Classes\controllers\GameController.cpp">
+      <Filter>Source Files\Classes\controllers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Justice\MemoryCard\proj.win32\main.cpp">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\CloseNormal.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\CloseSelected.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\HelloWorld.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\fonts\Marker Felt.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\fonts\arial.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\level1.json">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\card_general.png">
+      <Filter>Resources\res</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\.DS_Store">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_black_10.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_black_2.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_black_3.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_black_4.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_black_5.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_black_6.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_black_7.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_black_8.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_black_9.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_black_A.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_black_J.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_black_K.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_black_Q.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_red_10.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_red_2.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_red_3.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_red_4.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_red_5.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_red_6.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_red_7.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_red_8.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_red_9.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_red_A.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_red_J.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_red_K.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\big_red_Q.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_black_10.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_black_2.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_black_3.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_black_4.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_black_5.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_black_6.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_black_7.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_black_8.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_black_9.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_black_A.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_black_J.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_black_K.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_black_Q.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_red_10.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_red_2.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_red_3.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_red_4.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_red_5.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_red_6.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_red_7.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_red_8.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_red_9.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_red_A.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_red_J.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_red_K.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\number\small_red_Q.png">
+      <Filter>Resources\res\number</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\suits\club.png">
+      <Filter>Resources\res\suits</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\suits\diamond.png">
+      <Filter>Resources\res\suits</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\suits\heart.png">
+      <Filter>Resources\res\suits</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Resources\res\suits\spade.png">
+      <Filter>Resources\res\suits</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Classes\AppDelegate.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Classes\GameScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Classes\configs\models\LevelConfig.h">
+      <Filter>Source Files\Classes\configs\models</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Classes\configs\loaders\LevelConfigLoader.h">
+      <Filter>Source Files\Classes\configs\loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Classes\models\CardModel.h">
+      <Filter>Source Files\Classes\models</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Classes\models\GameModel.h">
+      <Filter>Source Files\Classes\models</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Classes\models\UndoModel.h">
+      <Filter>Source Files\Classes\models</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Classes\services\GameModelFromLevelGenerator.h">
+      <Filter>Source Files\Classes\services</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Classes\services\MatchService.h">
+      <Filter>Source Files\Classes\services</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Classes\managers\UndoManager.h">
+      <Filter>Source Files\Classes\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Classes\views\CardView.h">
+      <Filter>Source Files\Classes\views</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Classes\views\PlayFieldView.h">
+      <Filter>Source Files\Classes\views</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Classes\views\TrayView.h">
+      <Filter>Source Files\Classes\views</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Classes\controllers\PlayFieldController.h">
+      <Filter>Source Files\Classes\controllers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Classes\controllers\StackController.h">
+      <Filter>Source Files\Classes\controllers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\Classes\controllers\GameController.h">
+      <Filter>Source Files\Classes\controllers</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\proj.win32\main.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Justice\MemoryCard\proj.win32\resource.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Justice\MemoryCard\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\Justice\MemoryCard\proj.win32\game.rc">
+      <Filter>Source Files\proj.win32</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{D3BEA167-388D-3BD5-BFDB-F769D4B56D32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\fonts">
+      <UniqueIdentifier>{C4DE1B0F-2048-31B8-888E-D5612E63666A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\res">
+      <UniqueIdentifier>{43F3EA50-8350-342B-A1DC-BF8BB341C30F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\res\number">
+      <UniqueIdentifier>{0836462F-F8A0-3CAB-A77C-90B8E9247A7C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\res\suits">
+      <UniqueIdentifier>{9BAB8AC6-656E-3BBE-BDDB-D77B7CCDB879}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E76CFFDC-521F-32B7-97A5-D2675312B470}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes">
+      <UniqueIdentifier>{E735A79C-D557-307F-BF4F-05BA4FC7658C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\configs">
+      <UniqueIdentifier>{BEF5ECD5-08D6-383E-9032-1DDF61F44CB8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\configs\loaders">
+      <UniqueIdentifier>{681B1F1F-F1E6-3C19-BCAA-C982947859C3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\configs\models">
+      <UniqueIdentifier>{A15A0FD4-1575-3365-9DD3-56ED42B37D35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\controllers">
+      <UniqueIdentifier>{7CBAAE5B-2A89-32B4-9829-675E4E8F4905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\managers">
+      <UniqueIdentifier>{9D7581D8-384F-33E7-AA1A-471B4AEC1884}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\models">
+      <UniqueIdentifier>{E482E950-4D5D-31E0-9702-EA6E356468F8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\services">
+      <UniqueIdentifier>{51FEAEE0-46D9-3D84-9337-C689DE4F1F1B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\views">
+      <UniqueIdentifier>{4EB11415-0B46-3D53-8FDD-0AA8BB2D584F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\proj.win32">
+      <UniqueIdentifier>{3EFF91B2-782F-360B-8F47-30F6CD5EEBC0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

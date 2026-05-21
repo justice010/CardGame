@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Justice\MemoryCard\build_release\CMakeFiles\63ed0db91929f8efbad8cbd9ccb1910f\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{70090B0F-8356-3E51-BFF9-A5A7F82D64B7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
